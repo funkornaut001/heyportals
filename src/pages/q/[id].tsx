@@ -21,6 +21,7 @@ export default function UI({
   return (
     <>
       <Head>
+        //metadata rendering when looking at page / frame
         <meta property="og:title" content="Frame" />
         <meta property="og:image" content={image} />
         <meta property="hey:portal" content="vLatest" />
