@@ -35,3 +35,4 @@ Navigate to http://localhost:3000/new and create a new Quiz, then open the Quiz 
 `src/pages/q/[id].tsx` - the main engine, using `<form>` to simulate Farcaster embed, handles POST requests in `getServerSideProps`, handles the game state in Redux style.
 
 `src/pages/new.tsx` - quiz editor using spreadsheet-like interface.
+# frames-quiz
